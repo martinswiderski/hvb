@@ -11,7 +11,7 @@ Named after *The Handelsverkehrsbuch (HVB)* a **WW1** codebook which contained t
 
 Version|Published|By|URL
 --- | --- | --- | ---
-**x.0.0** | **2017-xx-xx** | `codebloke` | [npm](https://www.npmjs.com/package/hvb)
+**0.0.1** | **2017-04-10** | `codebloke` | [npm](https://www.npmjs.com/package/config.ini)
 
 
 

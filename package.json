@@ -1,0 +1,38 @@
+{
+  "name": "hvb",
+  "version": "0.0.1",
+  "description": "Encryption/decryption module with original data type preserved",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Place holder - no tests yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://martinswiderski@github.com/martinswiderski/hvb.git"
+  },
+  "keywords": [
+    "encryption",
+    "decryption",
+    "typesafe",
+    "data",
+    "type",
+    "safe",
+    "wrap",
+    "unwrap"
+  ],
+  "author": "Martin Swiderski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinswiderski/hvb/issues"
+  },
+  "homepage": "https://github.com/martinswiderski/hvb#readme",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "istanbul": "^0.4.5",
+    "jasmine-node": "^1.14.5"
+  }
+}
