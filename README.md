@@ -3,7 +3,7 @@ hvb
 Encryption/decryption module with original data type preserved.
 
 ***
-Named after *The Handelsverkehrsbuch (HVB)* a **WW1** codebook which contained the code used by the German navy to communicate with its merchant ships and also within the High Seas Fleet.
+Named after *The Handelsverkehrsbuch (HVB)* a *[WW1](https://en.wikipedia.org/wiki/World_War_I)* codebook which contained the code used by the German navy to communicate with its merchant ships and also within the *[High Seas Fleet](https://en.wikipedia.org/wiki/High_Seas_Fleet)*.
 
 ### Current version
 
