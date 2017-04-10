@@ -2,7 +2,7 @@
 
 module.exports = {
     name: 'config.ini',
-    version: '0.0.1',
+    version: '0.0.2',
     published: '2017-04-10',
     readme: 'README.md',
     package: 'package.json'

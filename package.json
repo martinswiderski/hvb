@@ -1,6 +1,6 @@
 {
   "name": "hvb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Encryption/decryption module with original data type preserved",
   "main": "index.js",
   "directories": {
