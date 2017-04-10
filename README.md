@@ -3,7 +3,7 @@ hvb
 Encryption/decryption module with original data type preserved.
 
 ***
-Named after *The Handelsverkehrsbuch (HVB)* a **WW1** codebook which contained the code used by the German navy to communicate with its merchant ships and also within the High Seas Fleet.
+Named after ***The Handelsverkehrsbuch (HVB)*** a *[WW1](https://en.wikipedia.org/wiki/World_War_I)* codebook which contained the code used by the German navy to communicate with its merchant ships and also within the *[High Seas Fleet](https://en.wikipedia.org/wiki/High_Seas_Fleet)*.
 
 ### Current version
 
@@ -11,7 +11,7 @@ Named after *The Handelsverkehrsbuch (HVB)* a **WW1** codebook which contained t
 
 Version|Published|By|URL
 --- | --- | --- | ---
-**0.0.1** | **2017-04-10** | `codebloke` | [npm](https://www.npmjs.com/package/config.ini)
+**0.0.2** | **2017-04-10** | `codebloke` | [npm](https://www.npmjs.com/package/config.ini)
 
 
 
